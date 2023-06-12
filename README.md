@@ -9,7 +9,7 @@ Human Genome Class TestRun1
 
 TEST RUN2:
 
-Enter the number of genes in the Mickey Mouse genome: 50000
+Enter the  of genes in the Mickey Mouse genome: 50000
 Enter the number of chromosomes in the Mickey Mouse genome: 32
 Enter the number of cells in the Mickey Mouse body (in trillions): 66
 Enter the number of genes in the Princess Elsa genome: 20000
